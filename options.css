@@ -1,13 +1,14 @@
-/*
-LittleSnapper Actions v 0.1.1
-Copyright (c) 2011 Seth Lilly. All rights reserved.
-*/
-
 body { min-width: 150px }
+
+p { width: 180px; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;-webkit-border-radius: 5px;color: #666;text-shadow: 0px 1px 0px #efefef;font-size: 12px;font-weight: bold; }
 
 .button { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;-webkit-border-radius: 5px;color: #666;text-shadow: 0px 1px 0px #efefef;font-size: 12px;font-weight: bold;width:180px;display: block;text-align: center;height: 30px;line-height: 30px;margin-bottom: 10px;cursor: default;border-top: 1px solid #efefef;border-bottom: 1px solid #999;background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#cccccc)); }
 .button:hover { color: #065168;background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f2f5f6), color-stop(100%,#C2D6CB)) }
 .button:active { color: #669F45 }
+
+.mini-button { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;-webkit-border-radius: 5px;color: #666;text-shadow: 0px 1px 0px #efefef;font-size: 12px;font-weight: bold;width:60px;display: block;text-align: center;height: 20px;line-height: 20px;margin-bottom: 10px;cursor: default;border-top: 1px solid #efefef;border-bottom: 1px solid #999;background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#eeeeee), color-stop(100%,#cccccc)); float: left }
+.mini-button:hover { color: #065168;background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f2f5f6), color-stop(100%,#C2D6CB)) }
+.mini-button:active { color: #669F45 }
 
 .options { float: right; height: 16px; width: 16px; padding-bottom: 5px; background: transparent url(options-d.png) no-repeat 0 0; cursor: pointer }
 .options:hover { background: transparent url(options-h.png) no-repeat 0 0 }

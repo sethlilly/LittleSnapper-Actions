@@ -7,9 +7,10 @@
 	<head>
 	<link rel="stylesheet" type="text/css" href="popup.css">
 	<script src="popup.js"></script>
+	<script src="options.js"></script>
 	</head>
-	<body>
-		<a class="button" onclick="openClick()">Open Page in LittleSnapper</a>
-		<a class="button" onclick="snapClick()">Snap Page to LittleSnapper</a>
+	<body onload="placeButtons();">
+		<div id="buttons"></div>
+		<a class="options" href="options.html"></a>
 	</body>
 </html>

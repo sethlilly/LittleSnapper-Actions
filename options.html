@@ -1,0 +1,17 @@
+<html>
+<head>
+	<title>LittleSnapper Actions: Options</title>
+	<link rel="stylesheet" type="text/css" href="options.css">
+	<script type="text/javascript" src="options.js"></script>
+</head>
+<body onload="loadOptions()">
+	<p>First Button</p>
+	<select id="firstButton" onchange="saveOptions()">
+		<option value="open">Open Page in LittleSnapper</option>
+		<option value="snap">Snap Page to LittleSnapper</option>
+	</select>
+	
+	<a class="mini-button" onclick="eraseOptions()">Reset</a>
+	<a class="mini-button" href="popup.html">Exit</a>
+</body>
+</html>
