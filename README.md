@@ -1,3 +1,7 @@
+__Update 2014-04-10: LittleSnapper is deprecated and has been replaced by [Ember](http://realmacsoftware.com/ember). It's a great product and it has a native Chrome extension. Highly recommended.
+
+I'm leaving this repo active for anyone who wants to use it.__
+
 This is the source for my free Google Chrome extension, LittleSnapper Actions.
 
 If you're like me, you're constantly dragging items to your Bookmarks bar to read later or to keep for inspiration. You're also snapping pages and images to Realmac Software's LittleSnapper. Since LittleSnapper doesn't yet support snapping from Chrome, we're left with the bookmarklet method, which is handy - unless your bookmarks move around a lot like mine do.
