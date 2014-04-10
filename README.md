@@ -1,6 +1,8 @@
-__Update 2014-04-10: LittleSnapper is deprecated and has been replaced by [Ember](http://realmacsoftware.com/ember). It's a great product and it has a native Chrome extension. Highly recommended.
+_Update 2014-04-10: LittleSnapper is deprecated and has been replaced by [Ember](http://realmacsoftware.com/ember). It's a great product and it has a native Chrome extension. Highly recommended._
 
-I'm leaving this repo active for anyone who wants to use it.__
+_I'm leaving this repo active for anyone who wants to use it._
+
+---
 
 This is the source for my free Google Chrome extension, LittleSnapper Actions.
 
